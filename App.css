@@ -1,0 +1,17 @@
+.navbar{
+  padding: 20px;
+  background:darkolivegreen;
+  color: #000;
+  font-weight: 900;
+
+ 
+}
+.search{
+  display:flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+.card{
+  display:flex;
+  justify-content: center;
+}
